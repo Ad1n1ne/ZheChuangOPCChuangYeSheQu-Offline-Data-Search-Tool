@@ -1,0 +1,22 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "A10",
+  "data": {
+    "_files": {},
+    "title": "水杯产品资料库",
+    "query": "容量",
+    "items": [
+      {
+        "title": "水杯规格",
+        "source": "产品说明第1节",
+        "body": "容量350ml，杯身不锈钢，颜色有黑色和白色。"
+      },
+      {
+        "title": "日常清洁",
+        "source": "使用指南",
+        "body": "建议及时清洗并晾干，请勿放入微波炉。"
+      }
+    ]
+  }
+}
